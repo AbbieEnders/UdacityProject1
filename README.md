@@ -9,4 +9,9 @@ matplotlib == 3.9.0
 matplotlib-inline = 0.1.7
 scikit-learn == 1.5.0
 
-
+Files in Repo:
+data/calendar.csv = reservations data from Seattle Airbnb (not used)
+data/listings.csv = listing details from Seattle Airbnb 
+data/reviews.csv = reviews of Seattle Airbnb (not used)
+README = detailed overview
+SeattleAirbnbAnalysis.ipynb = python notebook for analysis
