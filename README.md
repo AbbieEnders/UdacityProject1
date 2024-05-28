@@ -15,3 +15,7 @@ data/listings.csv = listing details from Seattle Airbnb
 data/reviews.csv = reviews of Seattle Airbnb (not used)
 README = detailed overview
 SeattleAirbnbAnalysis.ipynb = python notebook for analysis
+*Data Source:* https://www.kaggle.com/datasets/airbnb/seattle/data
+*Acknowledgements:*
+Udacity Lectures (udacity.com)
+License: MIT License 
