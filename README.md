@@ -2,11 +2,16 @@ This is my first Udacity project for the Data Scientist nanodegree. It uses Seat
 
 The motivation for this project is to examine the prices and ratings in Seattle Airbnbs and determine if the price of a stay can be predicted from the listings data accessed. I love to travel, but I also love to shop deals. Am I getting a better stay with a more expensive Airbnb? 
 
-Dependencies:
+#Dependencies:
+
 numpy == 1.26.4
+
 pandas == 2.2.2
+
 matplotlib == 3.9.0
+
 matplotlib-inline = 0.1.7
+
 scikit-learn == 1.5.0
 
 Files in Repo:
