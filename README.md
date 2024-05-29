@@ -3,6 +3,10 @@ This is my first Udacity project for the Data Scientist nanodegree. It uses Seat
 
 The motivation for this project is to examine the prices and ratings in Seattle Airbnbs and determine if the price of a stay can be predicted from the listings data accessed. I love to travel, but I also love to shop deals. Am I getting a better stay with a more expensive Airbnb? 
 
+# Check out the results here:
+[Is your more expensive Airbnb worth it?] (https://medium.com/@abigailenders19/is-your-more-expensive-airbnb-worth-it-070ae4584d76)
+
+
 # Dependencies:
 
 numpy == 1.26.4
